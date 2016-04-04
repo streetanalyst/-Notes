@@ -9,3 +9,9 @@ Discount incentive
 $(document).ready(function(){$('button'.on('click',function(){var message = $('<span> call 123 for a free consultation </span>' bar discount = )}});
 
 ...andddd I am buzz killed.
+
+$(document).ready(function(){});
+
+"...stuck at 50% loading loading wait wait ...estimated time to completion l, undecided!"
+"Care for a menu of recent tasks scheduled for completion AND supported by contribution?"
+
